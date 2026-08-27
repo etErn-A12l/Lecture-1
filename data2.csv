@@ -1,0 +1,6 @@
+name,salary,dept,score,attendance,student_result
+ghishu,50000,CSE,88.0,95.0,pass
+yamuna,60000,EE,72.0,88.0,pass
+sohum,55000,CSE,91.0,,Pass
+sakina,45000,ME,65.0,90.0,pass
+periyar,70000,CSE,,92.0,fail
